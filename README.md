@@ -1,5 +1,5 @@
 # Endless Runner
-Endless runner developed in javascript using THREE.js library. Uses collosion detection between different objects. Basic player physics has been coded. Basic UI developed. Garbage collection utilized.
+Endless runner developed in javascript using THREE.js library. Uses collision detection between different objects. Basic player physics has been coded. Basic UI developed. Garbage collection utilized.
 
 # How to Play
 ----------------
